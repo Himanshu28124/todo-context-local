@@ -1,28 +1,25 @@
-Todo Apps :-
-A set of elegant and responsive Todo applications built using React, demonstrating state management with Context API + Local Storage and Redux Toolkit. Designed for clean user experience with persistent task storage and seamless interactions.
+📝 Todo App ✅🗒️
+A sleek and responsive Todo application built with React, utilizing the Context API for global state management and Local Storage for persistent data. Designed for a smooth user experience with an intuitive interface across all devices.
 
 🚀 Features
 
--> Manage tasks: add, update, delete, toggle completion ✔️
+--> Add, update, delete, and toggle tasks ✔️
 
--> Persistent data with Local Storage — tasks stay even after refresh 🔄
+--> Data persists using Local Storage — tasks remain even after closing the browser 🔄
 
--> Two advanced state management implementations:
+--> Global state management with React Context API 🌐
 
--> Context API + Local Storage 🌐
+--> Responsive design for desktop and mobile devices 💻📱
 
--> Fully responsive design for desktop and mobile devices 💻📱
+--> Clean architecture with functional components and Hooks 🎯
 
 🛠 Tech Stack
 
--> React (with Hooks)
+--> React (Context API, Hooks) ⚛️
 
--> Context API
+--> Local Storage for persistence 💾
 
--> Redux Toolkit
+--> CSS3 (responsive, modular) 🎨
 
--> Local Storage
+--> Vite ⚡
 
--> Tailwind Css (modular, responsive)
-
--> Vite
