@@ -1,12 +1,28 @@
-# React + Vite
+📝 Todo Apps ✅🗒️
+A set of elegant and responsive Todo applications built using React, demonstrating state management with Context API + Local Storage and Redux Toolkit. Designed for clean user experience with persistent task storage and seamless interactions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
 
-Currently, two official plugins are available:
+-> Manage tasks: add, update, delete, toggle completion ✔️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-> Persistent data with Local Storage — tasks stay even after refresh 🔄
 
-## Expanding the ESLint configuration
+-> Two advanced state management implementations:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-> Context API + Local Storage 🌐
+
+-> Fully responsive design for desktop and mobile devices 💻📱
+
+🛠 Tech Stack
+
+-> React (with Hooks)
+
+-> Context API
+
+-> Redux Toolkit
+
+-> Local Storage
+
+-> Tailwind Css (modular, responsive)
+
+-> Vite
