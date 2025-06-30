@@ -1,4 +1,4 @@
-📝 Todo Apps ✅🗒️
+Todo Apps :-
 A set of elegant and responsive Todo applications built using React, demonstrating state management with Context API + Local Storage and Redux Toolkit. Designed for clean user experience with persistent task storage and seamless interactions.
 
 🚀 Features
